@@ -1,5 +1,5 @@
 function scuberGreetingForFeet(){
-  if scuberGreetingForFeet<=400{}
+  if scuberGreetingForFeet<=400{'This one is on me!'}
   
 }
 
