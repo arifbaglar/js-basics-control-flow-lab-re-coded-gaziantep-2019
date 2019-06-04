@@ -12,7 +12,13 @@ function ternaryCheckCity(city){
 }
 
 function switchOnCharmFromTip(tip){
-  var res
+  var result
+  switch (result){
+    
+    
+    
+    
+  }
   
   
   
