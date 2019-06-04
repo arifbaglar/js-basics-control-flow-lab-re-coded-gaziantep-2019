@@ -6,11 +6,12 @@ function scuberGreetingForFeet(ride){
 }
 function addFive(someNumber) {
   
-  let result
+  let result;
   if (someNumber > 0) {
     result = someNumber + 5;
   }
-
+ return result;
+}
 function ternaryCheckCity(){
   // Write your code here!
 }
