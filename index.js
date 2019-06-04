@@ -1,6 +1,9 @@
 function scuberGreetingForFeet(){
   if (scuberGreetingForFeet <=400){'This one is on me!'}
-  else if (scuberGreetingForFeet>2000) {
+  else if (scuberGreetingForFeet>2000) {'I will gladly take your thirty bucks.'
+    
+  }
+  else if (scuberGreetingForFeet>2000){
     
   }
   
