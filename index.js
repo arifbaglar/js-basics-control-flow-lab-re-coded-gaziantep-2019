@@ -7,7 +7,7 @@ function scuberGreetingForFeet(ride){
 }
 
 function ternaryCheckCity(){
-  // Write your code here!
+  
 }
 
 function switchOnCharmFromTip(){
