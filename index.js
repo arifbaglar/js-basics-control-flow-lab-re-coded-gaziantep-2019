@@ -1,4 +1,4 @@
-let ride=199;
+
 scuberGreetingForFeet();
 function scuberGreetingForFeet(){
   if (ride <=400){'This one is on me!'}
