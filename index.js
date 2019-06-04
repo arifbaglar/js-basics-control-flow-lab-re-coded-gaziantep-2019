@@ -1,5 +1,5 @@
 function scuberGreetingForFeet(){
-  
+  if scuberGreetingForFeet<=400{}
   
 }
 
