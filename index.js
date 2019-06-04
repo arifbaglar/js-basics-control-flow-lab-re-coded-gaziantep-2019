@@ -15,13 +15,13 @@ function switchOnCharmFromTip(tip){
   var result;
   switch (tip){
     case 'generous':
-      result="Thank you so much.";
+      result='Thank you so much.';
       break;
-    case "not as generous":
-       result="Thank you.";
+    case 'not as generous':
+       result='Thank you.';
        break;
     case 'thanks for everything':
-        result="Bye";
+        result='Bye';
         break;
   }
   
