@@ -22,12 +22,4 @@ function switchOnCharmFromTip(tip){
         result="Bye";
   }
   
-  
-  
-  
-  
-  
-  
-  
-  
 }
