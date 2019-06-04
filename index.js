@@ -6,8 +6,8 @@ function scuberGreetingForFeet(ride){
   return result;
 }
 
-function ternaryCheckCity(){
-  
+function ternaryCheckCity(city){
+  var city = (city=="NYC") ? "Too young":"Old enough";
 }
 
 function switchOnCharmFromTip(){
